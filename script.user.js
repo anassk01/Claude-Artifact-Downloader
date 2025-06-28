@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Download Claude artifacts in mass, by range, or individually
 // @author       anassk
+// @license      MIT
 // @match        https://claude.ai/*
 // @noframes
 // @grant        GM_registerMenuCommand
